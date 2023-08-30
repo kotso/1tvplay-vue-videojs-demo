@@ -2,11 +2,11 @@
   <div class="hello">
     **<video
       id="vid1"
-      width="500"
-      height="300"
+      width="800"
+      height="500"
       class="video-js"
       preload="auto"
-      poster="//vjs.zencdn.net/v/oceans.png"
+      poster="//dash.cloud9.ge/streaming/1tv-cover-20230206.jpg"
       controls
       data-setup="{}"
     >
