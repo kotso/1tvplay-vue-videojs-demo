@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    **<video
+    <video
       id="vid1"
       width="800"
       height="500"
